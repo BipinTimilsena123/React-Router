@@ -1,6 +1,6 @@
-# React + Vite
+# React + Vite (React-Router and Api Call OPtimization )
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In This Project I have Implemented Various Hooks And React Router To Optimize Api Call And Routes.
 
 Currently, two official plugins are available:
 
